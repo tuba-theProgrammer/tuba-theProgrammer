@@ -1,8 +1,5 @@
   <div align="center">
-  <h1>
-  hey there, it's me Tuba
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<h1 align="center">Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, It's me Tuba</h1>
 
  
   <hr style=" border-top: 3px solid #bbb">
@@ -16,8 +13,11 @@
 - 🌱 I’m currently learning **Blockchain and Electron JS**
 - 👯 I’m looking to collaborate on **Java, Web Applications and Mobile Application (Flutter | Android)**  
 - 💬 Ask me about **Java & Full Stack Web Development**.  
-- 📫 How to reach me **tubaasif.bcsf18@iba-suk.edu.pk**
-
+- 📫 Reach me at <div> [<img src="https://img.icons8.com/nolan/64/github.png" alt='github' height='40'>](https://github.com/tuba-theProgrammer) 
+[<img src="https://img.icons8.com/nolan/64/linkedin.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/tuba-asif-766449182/)
+[<img src="https://img.icons8.com/color-glass/48/000000/gmail.png" alt='Gmail' height='40'>](https://tubaasif.bcsf18@iba-suk.edu.pk/)
+  </div>
+  
    ### :hammer_and_wrench: Languages and Tools :
     <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
