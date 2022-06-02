@@ -1,5 +1,5 @@
   <div align="center">
-<h1 align="center">Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, It's me Tuba</h1>
+<h1 align="center">Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>, It's me Tuba</h1>
 
  
   <hr style=" border-top: 3px solid #bbb">
