@@ -6,13 +6,13 @@
   <h3 align="center"> I believe nothing is more exciting than making the information organized, accessible, and diverse for the individual. I can effortlessly and rather skillfully solve real-life problems and apply techniques from various disciplines to development. </h3>
 <hr style=" border-top: 3px solid #bbb">
 <h1 align="center"> My Skills </h1>
-<h3 align="center">MERN Stack | Flutter | Android | React Js | Next Js | Java | C++ C | C# | Git - Github | Node JS | Firebase | Material-UI Bootstrap Semantic-UI
+<h3 align="center">Blockchain development| Solidity | Node js |Express Js |MERN Stack | React Js | Next Js | Java | C++ C | C# | Git - Github | Firebase | Material-UI, Bootstrap, Semantic-UI
 </h3>
  
-- 🔭 I’m currently working on  **Full Stack Web and App development**. 
-- 🌱 I’m currently learning **Blockchain and Electron JS**
-- 👯 I’m looking to collaborate on **Java, Web Applications and Mobile Application (Flutter | Android)**  
-- 💬 Ask me about **Java & Full Stack Web Development**.  
+- 🔭 I’m currently working on  **Blockchain web application developement and Mern stack Developement**. 
+- 🌱 I’m currently exploring more about **Blockchain development**
+- 👯 I’m looking to collaborate on **Blockhain Web Applications**  
+- 💬 Ask me about **Blockchain development and Mern Stack Development**.  
 - 📫 Reach me at <div> [<img src="https://img.icons8.com/nolan/64/github.png" alt='github' height='40'>](https://github.com/tuba-theProgrammer) 
 [<img src="https://img.icons8.com/nolan/64/linkedin.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/tuba-asif-766449182/)
 [<img src="https://img.icons8.com/color-glass/48/000000/gmail.png" alt='Gmail' height='40'>](https://tubaasif.bcsf18@iba-suk.edu.pk/)
