@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>, It's me Tuba</h1>
+  <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>, It's me Tuba</h1>
 
   <hr style="border-top: 3px solid #bbb">
   <h3 align="center">I'm passionate about backend development, and I believe in creating efficient and scalable solutions using Node.js, Nest.js, TypeScript, and GraphQL. Let's build the backbone of your application together!</h3>
@@ -15,18 +15,17 @@
     <div>
       [<img src="https://img.icons8.com/nolan/64/github.png" alt='github' height='40'>](https://github.com/tuba-theProgrammer)
       [<img src="https://img.icons8.com/nolan/64/linkedin.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/tuba-asif-766449182/)
-      [<img src="https://img.icons8.com/color-glass/48/000000/gmail.png" alt='Gmail' height='40'>](mailto:tubaasif.bcsf18@iba-suk.edu.pk)
+      [<img src="https://img.icons8.com/color/48/000000/gmail.png" alt='Gmail' height='40'>](mailto: tubarajput92@gmail.com)
     </div>
 
   ### :hammer_and_wrench: Languages and Tools:
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
     <img src="https://nestjs.com/img/logo_text.svg" title="Nest.js" alt="Nest.js" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title "TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
     <img src="https://graphql.org/img/logo.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://www.postman.com/assets/logos/postman-logo.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-    <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+    <img src="https://assets.getpostman.com/common-share/postman-logo-horizontal-white.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   </div>
 </div>
